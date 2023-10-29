@@ -41,8 +41,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_stargazers: yes
+          plugin_stargazers: no
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
