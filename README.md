@@ -1,1 +1,3 @@
-![Metrics](/github-metrics.svg)
+<div align=center>
+  <image src="github-metrics.svg"></image>
+</div>
