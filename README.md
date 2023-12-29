@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning software engineering
 - 💬 Ask me about anything you love to talk about ❤
 - ⚡ I like 🎵music, 🎦film, 📷photography
-- 📧 You can contact me at hongjr03@gmail.com and find me at [jrhong.top](jrhong.top)
+- 📧 You can contact me at hongjr03@gmail.com and find me at [jrhong.top](https://jrhong.top/)
 - 🌈 Blessed be the mystery of love.
 
 # 💻 Tech Stack:
