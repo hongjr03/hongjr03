@@ -2,3 +2,6 @@
 - 🌈 Blessed be the mystery of love.
 
 ![snake_animation](https://raw.githubusercontent.com/hongjr03/hongjr03/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
