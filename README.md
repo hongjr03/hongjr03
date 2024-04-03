@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 January 2024 - To: 31 March 2024
+From: 02 January 2024 - To: 01 April 2024
 
-Total Time: 52 hrs 14 mins
+Total Time: 52 hrs 18 mins
 
-Python           15 hrs 3 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-Markdown         14 hrs          █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-Other            12 hrs 33 mins  █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-HTML             6 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-C                3 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Python           15 hrs 3 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Markdown         14 hrs          █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Other            12 hrs 33 mins  █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+HTML             6 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+C                3 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 C++              3 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 SCSS             1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 Vue.js           1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
