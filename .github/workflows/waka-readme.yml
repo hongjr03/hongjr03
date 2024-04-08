@@ -20,12 +20,12 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          CODE_LANG: json # optional
+          TIME_RANGE: last_7_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
+          SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
