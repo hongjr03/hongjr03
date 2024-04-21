@@ -6,13 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Total Time: 6 hrs 57 mins
+Total Time: 6 hrs 56 mins
 
-Other            3 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.46 %
-Python           1 hr 55 mins    ███████░░░░░░░░░░░░░░░░░░   27.59 %
-C                1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Other            2 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   39.66 %
+Python           1 hr 55 mins    ███████░░░░░░░░░░░░░░░░░░   27.64 %
+C                1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Rust             47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
 ObjectiveC       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
