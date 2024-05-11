@@ -6,15 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-Total Time: 18 hrs 58 mins
+Total Time: 16 hrs 31 mins
 
-Other        16 hrs 26 mins  █████████████████████▓░░░   86.70 %
-Python       2 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-BibTeX       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-PythonStub   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other            13 hrs 45 mins  ████████████████████▓░░░░   83.31 %
+Python           2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+C++              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+BibTeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
