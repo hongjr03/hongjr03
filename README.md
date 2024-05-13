@@ -6,17 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 May 2024 - To: 11 May 2024
+From: 05 May 2024 - To: 12 May 2024
 
-Total Time: 18 hrs 27 mins
+Total Time: 16 hrs 8 mins
 
-Other            14 hrs 35 mins  ███████████████████▓░░░░░   79.06 %
-Python           3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-C++              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other            11 hrs 32 mins  ██████████████████░░░░░░░   71.56 %
+Python           4 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+C++              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-BibTeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PythonStub       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+BibTeX           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
