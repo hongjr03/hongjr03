@@ -6,15 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 July 2024 - To: 05 August 2024
+From: 30 July 2024 - To: 06 August 2024
 
-Total Time: 2 hrs 28 mins
+Total Time: 0 secs
 
-C++        1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.32 %
-Other      58 mins         ██████████░░░░░░░░░░░░░░░   39.65 %
-C          27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
