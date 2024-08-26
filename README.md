@@ -6,18 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 2 hrs 56 mins
+Total Time: 4 hrs 53 mins
 
-Other        2 hrs 16 mins   ███████████████████▒░░░░░   76.96 %
-JavaScript   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Markdown     12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        3 hrs 14 mins   ████████████████▓░░░░░░░░   66.42 %
+JavaScript   1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
+JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
