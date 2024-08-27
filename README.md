@@ -6,18 +6,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Total Time: 4 hrs 53 mins
+Total Time: 7 hrs 38 mins
 
-Other        3 hrs 14 mins   ████████████████▓░░░░░░░░   66.42 %
-JavaScript   1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
-JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        3 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.98 %
+JavaScript   1 hr 37 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+C++          1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Assembly     33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Markdown     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+C            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
