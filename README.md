@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-Total Time: 5 hrs 50 mins
+Total Time: 5 hrs 18 mins
 
-Other        3 hrs 15 mins   ██████████████░░░░░░░░░░░   55.75 %
-JavaScript   1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   31.83 %
-Markdown     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-JSON         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Other        2 hrs 33 mins   ████████████░░░░░░░░░░░░░   48.19 %
+JavaScript   2 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.20 %
+Markdown     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
