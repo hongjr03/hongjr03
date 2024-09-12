@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Total Time: 36 hrs 33 mins
+Total Time: 36 hrs 35 mins
 
-Python        31 hrs 44 mins  █████████████████████▓░░░   86.84 %
-Markdown      2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Python        31 hrs 27 mins  █████████████████████▒░░░   85.98 %
+Markdown      2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
 CSV           1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Other         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JSON          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 JavaScript    14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 MATLAB        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 TOML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
