@@ -6,20 +6,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-Total Time: 36 hrs 35 mins
+Total Time: 32 hrs 19 mins
 
-Python        31 hrs 27 mins  █████████████████████▒░░░   85.98 %
-Markdown      2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-CSV           1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Other         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-JavaScript    14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-MATLAB        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-TOML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Git Config    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-HTML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python           27 hrs 17 mins  █████████████████████░░░░   84.45 %
+Markdown         2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+CSV              1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Vue.js           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+MATLAB           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other            12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TOML             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Git Config       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
