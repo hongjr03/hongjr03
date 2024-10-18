@@ -6,19 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 October 2024 - To: 16 October 2024
+From: 10 October 2024 - To: 17 October 2024
 
-Total Time: 18 hrs 36 mins
+Total Time: 15 hrs 17 mins
 
-Typst         6 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.38 %
-Python        4 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-Other         2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Markdown      1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-TypeScript    1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-HTML          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Git Config    29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JavaScript    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Bash          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Typst         6 hrs 49 mins   ███████████▒░░░░░░░░░░░░░   44.69 %
+Python        4 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Markdown      1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+TypeScript    1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+HTML          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Git Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+CSV           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
