@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Total Time: 6 hrs 53 mins
+Total Time: 7 hrs 48 mins
 
-Typst             5 hrs 14 mins   ███████████████████░░░░░░   75.95 %
-Python            1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-TypeScript        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Other             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Typst             6 hrs 8 mins    ███████████████████▓░░░░░   78.76 %
+Python            1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+TypeScript        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Other             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
