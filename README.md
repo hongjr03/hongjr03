@@ -6,18 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 November 2024 - To: 08 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-Total Time: 16 hrs 44 mins
+Total Time: 14 hrs 26 mins
 
-Typst         11 hrs 21 mins  █████████████████░░░░░░░░   67.80 %
-Python        2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-Rust          59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Markdown      39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-TypeScript    23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Other         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Image (svg)   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Typst         8 hrs 18 mins   ██████████████▒░░░░░░░░░░   57.50 %
+Python        2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Rust          1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Markdown      1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+TypeScript    23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Image (svg)   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 C++           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
