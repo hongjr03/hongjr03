@@ -6,20 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-Total Time: 13 hrs 20 mins
+Total Time: 15 hrs 8 mins
 
-Typst         5 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   44.81 %
-Python        3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-Markdown      1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Rust          1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-SQL           52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Image (svg)   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Svelte        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Git Config    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-TypeScript    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Typst         5 hrs 58 mins   ██████████░░░░░░░░░░░░░░░   39.47 %
+Python        4 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   28.74 %
+Markdown      1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Rust          1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+SQL           52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Image (svg)   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Svelte        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+HTML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Git Config    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
