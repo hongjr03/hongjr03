@@ -6,19 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 December 2024 - To: 21 December 2024
+From: 15 December 2024 - To: 22 December 2024
 
-Total Time: 31 hrs 55 mins
+Total Time: 38 hrs 27 mins
 
-Typst         16 hrs 53 mins  █████████████▒░░░░░░░░░░░   52.93 %
-Java          5 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-Text          2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-V             1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Python        1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Other         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Markdown      46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-TypeScript    29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-textmate      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Typst         19 hrs 46 mins  █████████████░░░░░░░░░░░░   51.40 %
+V             6 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Java          5 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+Text          2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Other         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python        47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Markdown      45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript    29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+textmate      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
