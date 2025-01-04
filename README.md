@@ -6,19 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 December 2024 - To: 02 January 2025
+From: 27 December 2024 - To: 03 January 2025
 
-Total Time: 23 hrs 9 mins
+Total Time: 24 hrs 57 mins
 
-Typst        11 hrs 19 mins  ████████████▒░░░░░░░░░░░░   48.88 %
-Python       4 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-TypeScript   2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Markdown     1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-V            55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Text         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Makefile     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Typst        12 hrs 11 mins  ████████████▒░░░░░░░░░░░░   48.86 %
+Python       4 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+TypeScript   2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+V            1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Markdown     1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Text         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
