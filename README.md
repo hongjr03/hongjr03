@@ -6,18 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-Total Time: 41 hrs 28 mins
+Total Time: 43 hrs 42 mins
 
-Typst         16 hrs 27 mins  ██████████░░░░░░░░░░░░░░░   39.70 %
-Python        7 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Rust          7 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-TypeScript    2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Markdown      1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Text          1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-V             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Typst         21 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.34 %
+Rust          8 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Python        4 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+TypeScript    2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Markdown      1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Text          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Other         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+V             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+C             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
