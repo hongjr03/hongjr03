@@ -27,7 +27,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML TEXT# optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # you can populate email-id with secretes instead
