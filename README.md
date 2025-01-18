@@ -6,18 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Total Time: 29 hrs 23 mins
+Total Time: 25 hrs 31 mins
 
-Typst         16 hrs 42 mins  ██████████████▒░░░░░░░░░░   56.85 %
-HTML          3 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Rust          2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Markdown      1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Bash          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Python        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-TypeScript    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Other         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Typst         14 hrs 59 mins  ██████████████▓░░░░░░░░░░   58.72 %
+HTML          3 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Rust          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Bash          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Markdown      1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Python        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+TypeScript    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Git Config    9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
