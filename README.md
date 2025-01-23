@@ -1,3 +1,7 @@
+# hongjr03
+
+A student in Ocean University of China studying software engineering. 
+
 - 📧 You can contact me at hongjr03@gmail.com and find me at [jrhim.com](https://jrhim.com/)
 - 💜 Enchanted to meet u.
 
