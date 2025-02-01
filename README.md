@@ -5,6 +5,8 @@ A student in Ocean University of China studying software engineering.
 - 📧 You can contact me at hongjr03@gmail.com and find me at [jrhim.com](https://jrhim.com/)
 - 💜 Enchanted to meet u.
 
+![hongjr03's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjr03)
+
 ![snake_animation](https://raw.githubusercontent.com/hongjr03/hongjr03/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
