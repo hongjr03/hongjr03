@@ -12,16 +12,17 @@ A student in Ocean University of China studying software engineering.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 10 hrs 31 mins
+Total Time: 14 hrs
 
-Typst        7 hrs 29 mins   █████████████████▓░░░░░░░   71.17 %
-Markdown     1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Rust         1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Vue.js       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Typst        7 hrs 44 mins   █████████████▓░░░░░░░░░░░   55.19 %
+Markdown     4 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   35.28 %
+Rust         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Vue.js       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
