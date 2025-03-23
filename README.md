@@ -14,20 +14,20 @@ A student in Ocean University of China majoring software engineering.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 March 2025 - To: 22 March 2025
+From: 16 March 2025 - To: 23 March 2025
 
-Total Time: 37 hrs 30 mins
+Total Time: 37 hrs 5 mins
 
-C++              13 hrs 57 mins  █████████▒░░░░░░░░░░░░░░░   37.21 %
-Markdown         11 hrs 8 mins   ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-Typst            3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Other            2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Bash             1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-C                1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Lua              1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Makefile         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Python           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Git Config       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+C++           13 hrs 57 mins  █████████▒░░░░░░░░░░░░░░░   37.62 %
+Markdown      13 hrs 28 mins  █████████░░░░░░░░░░░░░░░░   36.31 %
+Typst         2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Other         2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Bash          1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Lua           1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+C             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Makefile      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Git Config    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+PowerShell    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
