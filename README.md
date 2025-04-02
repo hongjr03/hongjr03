@@ -20,19 +20,3 @@ A student in Ocean University of China majoring software engineering.
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/348d392b-9c0a-4133-9039-5022148c0092.svg" />
   <img alt="wakatime" src="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/348d392b-9c0a-4133-9039-5022148c0092.svg" />
 </picture>
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 43 hrs 26 mins
-
-C++               14 hrs 34 mins  ████████▒░░░░░░░░░░░░░░░░   33.55 %
-Typst             11 hrs 52 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-Markdown          3 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-C                 3 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Java              2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-```
-
-<!--END_SECTION:waka-->
-
-
