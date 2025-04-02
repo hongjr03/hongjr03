@@ -16,7 +16,7 @@ A student in Ocean University of China majoring software engineering.
 ## ⏰ WakaTime
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/6427c546-4fb4-4063-92f4-f526bae463a0.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/348d392b-9c0a-4133-9039-5022148c0092.svg" />
-  <img alt="wakatime" src="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/348d392b-9c0a-4133-9039-5022148c0092.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/2663a31e-c9cb-4a09-866f-692b681c2147.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/80b7cacb-afa5-4ca7-a725-8c3aa42969a4.svg" />
+  <img alt="wakatime" src="https://wakatime.com/share/@018ccd27-8ba7-4e89-8ab4-836a57a57f02/80b7cacb-afa5-4ca7-a725-8c3aa42969a4.svg" />
 </picture>
