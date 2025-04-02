@@ -4,7 +4,6 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 * * * *"
 
 jobs:
@@ -17,16 +16,15 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
-          SHOW_TITLE: true # optional
+          SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 10 # optional
+          # TIME_RANGE: last_7_days # optional
+          # LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
-          STOP_AT_OTHER: false # optional
+          STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML TEXT# optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
