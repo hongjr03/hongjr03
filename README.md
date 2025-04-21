@@ -1,6 +1,8 @@
-# hongjr03
+# [hongjr03](https://jrhim.com/)
 
-A student in Ocean University of China majoring software engineering. You can contact me at hongjr03@gmail.com and find me at [jrhim.com](https://jrhim.com/).
+A student in Ocean University of China majoring software engineering.
+
+You can contact me at hongjr03@gmail.com and find me at [jrhim.com](https://jrhim.com/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongjr03/hongjr03/output/github-contribution-grid-snake-dark.svg" />
