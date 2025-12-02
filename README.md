@@ -1,4 +1,4 @@
-![header](header.png)
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d9074fbb-4989-4fae-8bdc-1599837f0e36" />
 
 A student in Ocean University of China majoring software engineering.
 
