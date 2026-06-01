@@ -1,6 +1,6 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d9074fbb-4989-4fae-8bdc-1599837f0e36" />
 
-Incoming M.S. student at Pascal Lab, Nanjing University.
+Incoming M.S. student at @pascal-lab, Nanjing University.
 
 Previously studied Software Engineering at Ocean University of China.
 
