@@ -1,8 +1,10 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d9074fbb-4989-4fae-8bdc-1599837f0e36" />
 
-A student in Ocean University of China majoring software engineering.
+Incoming M.S. student at Pascal Lab, Nanjing University.
 
-You can contact me at hongjr03@gmail.com and find me at both [jrhim.com](https://jrhim.com/) and [h-jr.me](https://h-jr.me).
+Previously studied Software Engineering at Ocean University of China.
+
+You can reach me at [hongjr03@gmail.com](mailto:hongjr03@gmail.com) and find more about my work at jrhim.com and h-jr.me.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongjr03/hongjr03/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" />
