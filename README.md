@@ -1,8 +1,6 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d9074fbb-4989-4fae-8bdc-1599837f0e36" />
 
-Incoming M.S. student at [@pascal-lab](https://github.com/pascal-lab), Nanjing University.
-
-Previously studied Software Engineering at Ocean University of China.
+M.S. student at [@pascal-lab](https://github.com/pascal-lab), Nanjing University.
 
 You can reach me at [hongjr03@gmail.com](mailto:hongjr03@gmail.com) and find more about my work at jrhim.com and h-jr.me.
 
